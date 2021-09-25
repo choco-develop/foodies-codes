@@ -1,0 +1,63 @@
+
+h1{
+    text-decoration: black;
+    font-size: 26px;
+
+}
+p form {
+    font-weight:15% ;
+    text-align: center;
+
+}
+.button{
+   width: 30%;
+   background-color:yellow;
+   border-radius: 5px;
+   padding: 5px 0;
+   text-align: center;
+   width: auto;
+   margin: 20px 15px 0 0 ;
+}
+button{
+border: none;
+background-color: yellow;
+font-size: 14px;
+font-weight : 550;
+}
+*{
+    margin: auto;
+   max-width: 450px 
+}
+.form >*{
+    margin: 10px 5px;
+    padding: 5px;
+    border-radius: 5px;
+
+}
+input{
+    padding: 8px 25%;
+    margin: 0 0px;
+    font-style:initial;
+
+}
+.password{   
+    text-align: center; 
+    font-weight:  400px ;
+    font-size: 17px;
+}
+.signup{
+    text-align: center;
+    text-decoration:none;
+}
+.password > a{
+    color: black;
+    text-decoration: black;
+}
+.signup > p > a{
+    color:yellow;
+    text-decoration:none;
+    
+}
+.welcome > *{
+    margin-top: 100px;
+}
